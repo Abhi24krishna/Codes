@@ -1,2 +1,2 @@
 # Codes
-Mini Projects on python
+Mini Projects in python
